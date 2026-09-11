@@ -1,0 +1,6 @@
+{
+  "python.envFile": "${workspaceFolder}/backend/.env",
+  "python.terminal.useEnvFile": true,
+  "python.terminal.activateEnvironment": true,
+  "terminal.integrated.inheritEnv": true
+}
